@@ -1,4 +1,4 @@
-# Chapter 4 _materials
+# Chapter 4 Visualizing Data
 In [this chapter](https://neuraldatascience.io/4-viz/introduction.html), we will introduce core Python visualization packages, Matplotlib and Seaborn, as well as talking about topics such as accessibility and the choice of colour maps.
 After completing this chapter, you should be able to:
 
